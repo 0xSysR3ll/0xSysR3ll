@@ -23,7 +23,8 @@ React & NodeJS
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSysR3ll&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
+[![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/0xsysr3ll?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSysR3ll&layout=compact&theme=github_dark)
 
