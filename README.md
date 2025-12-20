@@ -12,4 +12,6 @@
 
 ###
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11QMA3A)
+
 ![Metrics](https://github.com/0xsysr3ll/0xsysr3ll/blob/main/github-metrics.svg)
